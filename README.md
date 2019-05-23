@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/16810710-15e2-4b4f-8624-1407d17b2db8/deploy-status)](https://app.netlify.com/sites/objective-booth-5d1903/deploys)
 <div align="center">
     <img src="static/logos/logo-1024.png" alt="Logo" width='200px' height='200px'/>
 </div>
